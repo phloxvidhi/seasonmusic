@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const seasons = [
       { name: 'winter', sound: 'winter-winds-7077.mp3', color: '#a8c0ff' },
       { name: 'summer', sound: 'summer_sound.mp3', color: '#f9e063' },
-      { name: 'autumn', sound: 'autumn_sound.mp3', color: '#f39c12' },
+      { name: 'autumn', sound: 'rustling-leaves-6875.mp3', color: '#f39c12' },
       { name: 'spring', sound: 'birds-19624.mp3', color: 'linear-gradient(135deg, #fec8d8, #f9e063)' }
     ];
   
